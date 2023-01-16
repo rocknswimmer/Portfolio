@@ -1,10 +1,11 @@
 import React from 'react';
+import './app.css'
 
 function App() {
 
   return (
     <div>
-      <h1>Andy's Deployed Demos</h1>
+      <h1>Andy Simmons Personal Projects</h1>
       <h2>Generic</h2>
       <ul>
         <li><a href="http://52.21.107.140:3004/">Job Site</a></li>
