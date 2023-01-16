@@ -1,8 +1,3 @@
-# Modals-Accordions2.0
+# Portfolio
 
-### Deployed Demo
-[DEMO](http://52.21.107.140:3005/)
-
-non create react app version for deployment
-
-Wanted to Deploy because I prefer demos to videos, and the presentation within a presentation was fun to pull off. 
+used to have links to all sites on one page.
